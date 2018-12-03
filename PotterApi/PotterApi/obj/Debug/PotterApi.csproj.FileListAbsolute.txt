@@ -1,0 +1,11 @@
+C:\Users\КуприенкоВ\source\repos\PotterApi\PotterApi\bin\Debug\PotterApi.exe.config
+C:\Users\КуприенкоВ\source\repos\PotterApi\PotterApi\bin\Debug\PotterApi.exe
+C:\Users\КуприенкоВ\source\repos\PotterApi\PotterApi\bin\Debug\PotterApi.pdb
+C:\Users\КуприенкоВ\source\repos\PotterApi\PotterApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\КуприенкоВ\source\repos\PotterApi\PotterApi\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\КуприенкоВ\source\repos\PotterApi\PotterApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\КуприенкоВ\source\repos\PotterApi\PotterApi\obj\Debug\PotterApi.csprojAssemblyReference.cache
+C:\Users\КуприенкоВ\source\repos\PotterApi\PotterApi\obj\Debug\PotterApi.csproj.CoreCompileInputs.cache
+C:\Users\КуприенкоВ\source\repos\PotterApi\PotterApi\obj\Debug\PotterApi.csproj.CopyComplete
+C:\Users\КуприенкоВ\source\repos\PotterApi\PotterApi\obj\Debug\PotterApi.exe
+C:\Users\КуприенкоВ\source\repos\PotterApi\PotterApi\obj\Debug\PotterApi.pdb
